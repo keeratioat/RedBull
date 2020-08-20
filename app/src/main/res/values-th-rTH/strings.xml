@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RedBull</string>
+    <string name="red_bull_company_limited">บริษัทกระทิงแดงจำกัด</string>
+    <string name="calculate">คำนวน</string>
+    <string name="calculated_speed_boss_wittaya">คำนวนความเร็วรถของ บอส อยู่วิทยา</string>
+    <string name="distance">ระยะทาง</string>
+    <string name="time">เวลา</string>
+</resources>

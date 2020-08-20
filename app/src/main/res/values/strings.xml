@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RedBull</string>
+    <string name="red_bull_company_limited">Red Bull Company Limited</string>
+    <string name="calculate">calculate</string>
+    <string name="calculated_speed_boss_wittaya">Calculated Speed Boss Yuwittaya</string>
+    <string name="distance">Distance</string>
+    <string name="time">Time</string>
+</resources>
